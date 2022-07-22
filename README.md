@@ -24,6 +24,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CRLLNKhoa&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
+
+[![github contribution grid snake animation](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/sy-records)
+
 ### 💬 Contact Me 
 
 ![Gmail Badge](https://img.shields.io/badge/-lnkhoa1205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
