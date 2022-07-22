@@ -28,8 +28,13 @@
 
 ![Gmail Badge](https://img.shields.io/badge/-lnkhoa1205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 ![Wechat Badge](https://img.shields.io/badge/-0366611060-7BB32E?style=flat-square&logo=telegram&logoColor=white)
-### 💬 Contact Me 
+[![QQ Badge](https://img.shields.io/badge/-lnkhoa1205-3563d5?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lnkhoa1205/)
 
-![Gmail Badge](https://img.shields.io/badge/-kerncink@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
-![Wechat Badge](https://img.shields.io/badge/-zkShare-7BB32E?style=flat-square&logo=wechat&logoColor=white)
-![QQ Badge](https://img.shields.io/badge/-https://www.facebook.com/lnkhoa1205/-3563d5?style=flat-square&logo=facebook&logoColor=white)
+### 💯 Learning
+
+<a href="https://github.com/natee/awesome-ppt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=awesome-ppt&theme=onedark" />
+</a>
+<a href="https://github.com/natee/build-your-own-vue-next">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=build-your-own-vue-next&theme=onedark" />
+</a>
