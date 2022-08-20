@@ -34,10 +34,3 @@
 [![QQ Badge](https://img.shields.io/badge/-lnkhoa1205-3563d5?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lnkhoa1205/)
 
 ### 💯 Learning
-
-<a href="https://github.com/natee/awesome-ppt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=awesome-ppt&theme=onedark" />
-</a>
-<a href="https://github.com/natee/build-your-own-vue-next">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natee&repo=build-your-own-vue-next&theme=onedark" />
-</a>
