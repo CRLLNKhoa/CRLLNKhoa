@@ -13,6 +13,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### 💬 Contact Me 
+
+![Gmail Badge](https://img.shields.io/badge/-lnkhoa1205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
+![Wechat Badge](https://img.shields.io/badge/-0366611060-7BB32E?style=flat-square&logo=telegram&logoColor=white)
+[![QQ Badge](https://img.shields.io/badge/-lnkhoa1205-3563d5?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lnkhoa1205/)
 
 
 ## &#x1f4c8; GitHub Stats
@@ -27,10 +32,5 @@
 
 [![github contribution grid snake animation](https://raw.githubusercontent.com/sy-records/sy-records/output/github-contribution-grid-snake.svg)](https://github.com/CRLLNKhoa)
 
-### 💬 Contact Me 
-
-![Gmail Badge](https://img.shields.io/badge/-lnkhoa1205@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
-![Wechat Badge](https://img.shields.io/badge/-0366611060-7BB32E?style=flat-square&logo=telegram&logoColor=white)
-[![QQ Badge](https://img.shields.io/badge/-lnkhoa1205-3563d5?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/lnkhoa1205/)
 
 ### 💯 Learning
